@@ -6,6 +6,11 @@ GPX routes for hiking, running, scrambling and so on. Very much a work in progre
 
 TODO
 
+### Whitegill / Pavey / Langdales
+
+- [ ] todo: loft crag is in the wrong place
+- [ ] todo: the route to thunacar knott is contrived
+
 ## Route Developer Guide
 
 This is the process I currently follow to build routes. It is still work in progress, and elements of it I may end up automating or building a command-line tool to simplify.
