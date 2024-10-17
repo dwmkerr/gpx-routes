@@ -51,6 +51,15 @@ The saved locations are then deleted, as most of them are 'course specific' (e.g
 
 **Share the final course**
 
-_Note: I have not got to this  step yet.**
+_Note: I have not got to this  step yet._
 
 At this point, the final course can be moved into a new location and marked as 'done' and shared with others.
+
+## TODO
+
+- [ ] feat: deploy main page as a simple website to GitHub pages so that people can easily view and download
+- [ ] route: potential route - [High Raise and Ullscarf from Borrowdale](https://www.visitlakedistrict.com/things-to-do/high-raise-and-ullscarf-from-borrowdale-p1222231)
+- [ ] route: potential route - [Skiddaw via Sale How](https://www.visitlakedistrict.com/things-to-do/skiddaw-via-sale-how-p1218861)
+- [ ] route: potential route - [The Bowder Stone and Watendlath](https://www.visitlakedistrict.com/things-to-do/the-bowder-stone-and-watendlath-p1218821)
+- [ ] route: potential route - crinkle crags options - rd from great langdale little langdale park halfway up, park next to raven crag | stool end, great knot crinkle crags bow fell OR park on road near rhinos fell, pike o blisco, great knot crinkle crags, bow fell, come down through ore gap and include esk hawes, then pass sprinkling tarn sty head then back
+
