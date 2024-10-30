@@ -62,4 +62,5 @@ At this point, the final course can be moved into a new location and marked as '
 - [ ] route: potential route - [Skiddaw via Sale How](https://www.visitlakedistrict.com/things-to-do/skiddaw-via-sale-how-p1218861)
 - [ ] route: potential route - [The Bowder Stone and Watendlath](https://www.visitlakedistrict.com/things-to-do/the-bowder-stone-and-watendlath-p1218821)
 - [ ] route: potential route - crinkle crags options - rd from great langdale little langdale park halfway up, park next to raven crag | stool end, great knot crinkle crags bow fell OR park on road near rhinos fell, pike o blisco, great knot crinkle crags, bow fell, come down through ore gap and include esk hawes, then pass sprinkling tarn sty head then back
+- [ ] feat: expore https://www.plotaroute.com/ to simplify process
 
